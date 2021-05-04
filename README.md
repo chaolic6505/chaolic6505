@@ -20,8 +20,10 @@
 </p>
 <br/><br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376)
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376" width="800"></a>
+</p>
 <h2 align='center'>
  💻 My Stack
 </h2>
@@ -33,4 +35,3 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=LARAVEL&logoColor=white&style=plastic%22" />
 </p>
-
