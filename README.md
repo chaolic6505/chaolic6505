@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align='center'>
- ✌ A Full Stack web and mobile developer in Vancouver. 
+ 🌈 A Full Stack web and mobile developer in Vancouver. 
 </h2>
 <br/>
 
