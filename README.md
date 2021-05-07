@@ -31,8 +31,8 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic%22" />
   <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white&style=plastic%22" />
-   <img src="https://img.shields.io/badge/TypesScript-323330?style=for-the-badge&logo=ts-node&logoColor=3178C6&style=plastic%22" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic%22" />
+   <img src="https://img.shields.io/badge/TypesScript-323330?style=for-the-badge&logo=ts-node&logoColor=3178C6&style=plastic%22"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic%22"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=LARAVEL&logoColor=white&style=plastic%22" />
 </p>
 <br/>
@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic%22" />
-  <img src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic%22" />
+  <img src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=Postgresql&logoColor=white&style=plastic%22" />
 </p>
