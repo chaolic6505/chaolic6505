@@ -45,10 +45,10 @@
 
 <br/><br/>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" width="800"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" width="500"></a>
 </p>
 
-<br/><br/>
+<br/>
 
 <h2 align='center'>
  🛠 Project Currently Working On
