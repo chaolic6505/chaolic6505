@@ -43,7 +43,7 @@
    <img src="https://img.shields.io/badge/TypesScript-323330?style=for-the-badge&logo=ts-node&logoColor=3178C6&style=plastic%22" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=LARAVEL&logoColor=white&style=plastic%22" />
-  <img src="https://img.shields.io/badge/c#-FF2D20?style=for-the-badge&logo=#-&logoColor=white&style=plastic%22" />
+  <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic%22" />
 </p>
 
 <br/><br/>
