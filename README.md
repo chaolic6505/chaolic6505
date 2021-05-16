@@ -42,15 +42,19 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=plastic%22"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=LARAVEL&logoColor=white&style=plastic%22" />
 </p>
+
 <br/><br/>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" width="800"></a>
+</p>
+
+<br/><br/>
+
 <h2 align='center'>
  🛠 Project Currently Working On
 </h2>
-<br/>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-<br/>
+<br/><br/>
+
 <h3 align='center'>
  Drag&Drop-Typescript
 </h3>
