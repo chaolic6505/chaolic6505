@@ -29,7 +29,11 @@
 </h2>
 <br/><br/>
 <p align='center'>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic%22" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" width="500"></a>
+</p>
+<br/>
+<p align='center'>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic%22" width="100" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic%22" />
@@ -44,11 +48,6 @@
 </p>
 
 <br/><br/>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" width="500"></a>
-</p>
-
-<br/>
 
 <h2 align='center'>
  🛠 Project Currently Working On
