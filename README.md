@@ -54,5 +54,5 @@
 <br/><br/>
 
 <h3 align='center'>
- Drag&Drop-Typescript
+ Typescript-React Todo List
 </h3>
