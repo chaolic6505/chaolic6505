@@ -54,5 +54,5 @@
 <br/><br/>
 
 <h3 align='center'>
- Typescript-React Todo List
+ WordPress Portfolio
 </h3>
