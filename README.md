@@ -5,6 +5,9 @@
 <h2 align='center'>
  🌈 A Full Stack web and mobile developer in Vancouver. 
 </h2>
+<p align='center'>
+  <a href="#"><img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="300"></a>
+</p>
 <br/>
 
 <p align='center'>
@@ -18,7 +21,6 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=plastic%22" />  
  </a>&nbsp;&nbsp;
 </p>
-<br/><br/>
 <h2 align='center'>
  💻 My Stack
 </h2>
@@ -46,11 +48,6 @@
 </p>
 
 
-<br/><br/>
-
-<p align='center'>
-  <a href="#"><img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="600"></a>
-</p>
 
 <!-- <h2 align='center'>
  🛠 Project Currently Working On
