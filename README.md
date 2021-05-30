@@ -48,11 +48,15 @@
 
 <br/><br/>
 
-<h2 align='center'>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaolic6505&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="600"></a>
+</p>
+
+<!-- <h2 align='center'>
  🛠 Project Currently Working On
 </h2>
 <br/><br/>
 
 <h3 align='center'>
  WordPress Portfolio
-</h3>
+</h3> -->
