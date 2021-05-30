@@ -19,17 +19,11 @@
  </a>&nbsp;&nbsp;
 </p>
 <br/><br/>
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376" width="800"></a>
-</p>
 <h2 align='center'>
  💻 My Stack
 </h2>
 <br/><br/>
 
-<br/>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic%22"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic%22" />
@@ -45,6 +39,13 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=LARAVEL&logoColor=white&style=plastic%22" />
   <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic%22" />
 </p>
+
+<br/>
+<br/>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376" width="800"></a>
+</p>
+
 
 <br/><br/>
 
