@@ -49,11 +49,12 @@
 
 
 
-<!-- <h2 align='center'>
+<h2 align='center'>
  🛠 Project Currently Working On
 </h2>
 <br/><br/>
 
 <h3 align='center'>
- WordPress Portfolio
-</h3> -->
+X-Strore
+Typescript&Redux&GraphQL& Stripe&Firebase
+</h3>
