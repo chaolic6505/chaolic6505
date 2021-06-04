@@ -55,6 +55,6 @@
 <br/><br/>
 
 <h3 align='center'>
-X-Strore
+X-Strore<br/>
 Typescript&Redux&GraphQL& Stripe&Firebase
 </h3>
