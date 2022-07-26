@@ -46,15 +46,3 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376" width="800"></a>
 </p>
-
-
-
-<h2 align='center'>
- 🛠 Project Currently Working On
-</h2>
-<br/><br/>
-
-<h3 align='center'>
-X-Strore<br/><br/>
-Typescript & React & Redux & Stripe & Firebase
-</h3>
