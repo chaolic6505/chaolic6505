@@ -2,11 +2,6 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there  I'm Chao-Li
 </h1>
 
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chaolic6505&show_icons=true&theme=radical&bg_color=DEG,2b5876,4e4376" width="800"></a>
-  
-</p>
 <br/>
 <h2>Language</h2>
 
