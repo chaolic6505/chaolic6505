@@ -5,7 +5,7 @@
 <br/>
 <h2>Language</h2>
 
-[![Web](https://skillicons.dev/icons?i=js,ts,php,python,kotlin,java,swift)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=js, ts, php, python, kotlin, java, swift, c++, c#, ruby, go, rust, scala, dart, r, matlab, lua, perl, haskell, objective-c)](https://skillicons.dev)
 
 <h2>Tech I Used</h2>
 
